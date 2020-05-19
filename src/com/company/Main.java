@@ -12,9 +12,9 @@ public class Main {
         int[][] array = new int[n][n];
         int i = 0;
         int j = 0;
-        int a = 1; //счетчик
-        int g=n-1; //переменная для шага
-        int p=0; // переменная для шага
+        int a = 1; //счетчик;
+        int g=n-1; //переменная для шага;
+        int p=0; // переменная для шага;
 
         do {
         while (j<g) {
